@@ -1,0 +1,13 @@
+body {
+  background-image: url('/img/main-bg.jpeg');
+  background-size: auto;
+  background-position:center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
+.mainContainer {
+  height: 20%;
+  background: green;
+}
